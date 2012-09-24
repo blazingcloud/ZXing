@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes
+END
+MultiFormatOneDReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/MultiFormatOneDReader.h
+END
+FormatReader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/FormatReader.mm
+END
+CBarcodeFormat.mm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/CBarcodeFormat.mm
+END
+ArrayAndStringCategories.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/ArrayAndStringCategories.h
+END
+QRCodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/QRCodeReader.h
+END
+DecoderDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/DecoderDelegate.h
+END
+TwoDDecoderResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/TwoDDecoderResult.h
+END
+DataMatrixReader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/DataMatrixReader.mm
+END
+ArrayAndStringCategories.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/ArrayAndStringCategories.m
+END
+MultiFormatUPCEANReader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/MultiFormatUPCEANReader.mm
+END
+Decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/Decoder.h
+END
+NSString+HTML.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/NSString+HTML.h
+END
+ZXingWidgetController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/ZXingWidgetController.h
+END
+TwoDDecoderResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/TwoDDecoderResult.m
+END
+MultiFormatReader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/MultiFormatReader.mm
+END
+FormatReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/FormatReader.h
+END
+CBarcodeFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/CBarcodeFormat.h
+END
+OverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/OverlayView.h
+END
+ZXingWidgetController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/ZXingWidgetController.m
+END
+NSString+HTML.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/NSString+HTML.m
+END
+MultiFormatOneDReader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/MultiFormatOneDReader.mm
+END
+DataMatrixReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/DataMatrixReader.h
+END
+OverlayView.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/OverlayView.m
+END
+QRCodeReader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/QRCodeReader.mm
+END
+MultiFormatUPCEANReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/MultiFormatUPCEANReader.h
+END
+Decoder.mm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2150/tags/2.0/iphone/ZXingWidget/Classes/Decoder.mm
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common
+END
+Point.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/Point.h
+END
+BitSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/BitSource.cpp
+END
+IllegalArgumentException.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/IllegalArgumentException.h
+END
+GreyscaleLuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/GreyscaleLuminanceSource.h
+END
+Counted.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/Counted.cpp
+END
+EdgeDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/EdgeDetector.h
+END
+ECI.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/ECI.h
+END
+DetectorResult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/DetectorResult.cpp
+END
+BitMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/BitMatrix.h
+END
+GridSampler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/GridSampler.cpp
+END
+DecoderResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/DecoderResult.h
+END
+Str.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/Str.h
+END
+Array.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/Array.cpp
+END
+GreyscaleRotatedLuminanceSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/GreyscaleRotatedLuminanceSource.cpp
+END
+BitArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/BitArray.h
+END
+GlobalHistogramBinarizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/GlobalHistogramBinarizer.cpp
+END
+PerspectiveTransform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/PerspectiveTransform.cpp
+END
+HybridBinarizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/HybridBinarizer.cpp
+END
+IllegalArgumentException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/IllegalArgumentException.cpp
+END
+GreyscaleLuminanceSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/GreyscaleLuminanceSource.cpp
+END
+StringUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/StringUtils.h
+END
+CharacterSetECI.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/CharacterSetECI.h
+END
+EdgeDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/EdgeDetector.cpp
+END
+ECI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/ECI.cpp
+END
+BitMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/BitMatrix.cpp
+END
+DecoderResult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/DecoderResult.cpp
+END
+BitSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/BitSource.h
+END
+Counted.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/Counted.h
+END
+Str.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/Str.cpp
+END
+BitArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/BitArray.cpp
+END
+DetectorResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/DetectorResult.h
+END
+GridSampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/GridSampler.h
+END
+Array.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/Array.h
+END
+GreyscaleRotatedLuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/GreyscaleRotatedLuminanceSource.h
+END
+StringUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/StringUtils.cpp
+END
+GlobalHistogramBinarizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/GlobalHistogramBinarizer.h
+END
+CharacterSetECI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/CharacterSetECI.cpp
+END
+PerspectiveTransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/PerspectiveTransform.h
+END
+HybridBinarizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/common/HybridBinarizer.h
+END

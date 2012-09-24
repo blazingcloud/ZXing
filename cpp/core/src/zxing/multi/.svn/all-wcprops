@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/multi
+END
+MultipleBarcodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/multi/MultipleBarcodeReader.cpp
+END
+GenericMultipleBarcodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/multi/GenericMultipleBarcodeReader.h
+END
+ByQuadrantReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/multi/ByQuadrantReader.h
+END
+MultipleBarcodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/multi/MultipleBarcodeReader.h
+END
+GenericMultipleBarcodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/multi/GenericMultipleBarcodeReader.cpp
+END
+ByQuadrantReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2150/tags/2.0/cpp/core/src/zxing/multi/ByQuadrantReader.cpp
+END

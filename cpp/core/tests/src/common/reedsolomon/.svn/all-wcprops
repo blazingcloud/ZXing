@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2150/tags/2.0/cpp/core/tests/src/common/reedsolomon
+END
+ReedSolomonTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2150/tags/2.0/cpp/core/tests/src/common/reedsolomon/ReedSolomonTest.cpp
+END
+ReedSolomonTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2150/tags/2.0/cpp/core/tests/src/common/reedsolomon/ReedSolomonTest.h
+END
